@@ -13,7 +13,7 @@ Game is available to download and play for free on Windows, Mac, and Linux at ht
 
 ### Survival Combat
 
-Fight against infinite waves of increasingly large numbers of zombies. Collect credits from your kills and use them purchase better weapons to hold off the hoard. Last as long as you can.
+Fight against infinite waves of increasingly large numbers of zombies. Collect credits from your kills and use them to purchase better weapons to hold off the hoard. Last as long as you can.
 
 ### Character Creator
 
