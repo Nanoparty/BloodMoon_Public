@@ -1,6 +1,10 @@
 # BloodMoon
 A 3rd Person Shooter Zombie Survival game made in Unreal Engine 5. This is my first game developed in the Unreal Engine and my goal with this project was to learn how to use Unreal Engine 5. This project has had all paid assets removed and is not playable.
 
+## Play Now
+
+Game is available to download and play for free on Windows, Mac, and Linux at https://dispixel.itch.io/blood-moon
+
 ![Banner](Screenshots/img1.png)
 ![Screenshot1](Screenshots/img2.png)
 ![Screenshot2](Screenshots/img3.png)
